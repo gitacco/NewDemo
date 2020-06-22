@@ -19,7 +19,7 @@ namespace EFCrud.Models
         [DisplayName("Emp.Code")]
         public string EmpCode { get; set; }
         public string Position { get; set; }
-        public string OfficeLocation { get; set; }
+        public string OfficeLoca { get; set; }
 
 
 
